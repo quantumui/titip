@@ -12,8 +12,8 @@
     "animation",
     "web"
   ],
-  "homepage": "http://angularui.net",
-  "author": "Mehmet Otkun, angularui.net.",
+  "homepage": "http://quantumui.org",
+  "author": "Mehmet Otkun, quantumui.org",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -21,14 +21,14 @@
   "less": "less/titip.less",
   "repository": {
     "type": "git",
-    "url": "https://github.com/angularui/titip.git"
+    "url": "https://github.com/quantumui/titip.git"
   },
   "bugs": {
-    "url": "https://github.com/angularui/titip/issues"
+    "url": "https://github.com/quantumui/titip/issues"
   },
   "license": {
     "type": "MIT",
-    "url": "https://github.com/angularui/titip/blob/master/LICENSE"
+    "url": "https://github.com/quantumui/titip/blob/master/LICENSE"
   },
   "devDependencies": {
     "grunt": "~0.4.5",
