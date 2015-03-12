@@ -40,7 +40,7 @@ QuantumUI's is full documented with lots of examples on online page, <http://qua
 **Mehmet Ötkün**
 
 + <http://quantumui.org>
-+ <https://twitter.com/angular_ui>
++ <https://twitter.com/quantumui>
 + <https://www.facebook.com/quantumui>
 + <https://github.com/quantumui>
 + <https://github.com/mehmetotkun>
@@ -57,7 +57,7 @@ You are allowed to use these elements anywhere you want, however we’ll highly 
 
 Social Media:
 
-Twitter: <https://twitter.com/angular_ui>
+Twitter: <https://twitter.com/quantumui>
 
 Facebook: <https://www.facebook.com/quantumui>
 
