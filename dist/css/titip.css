@@ -1,6 +1,6 @@
 /*!
- * AngularUIUI Free v1.0.0 (http://angularui.net)
- * Copyright 2014-2015 Mehmet Otkun, angularui.net.
+ * AngularUIUI Free v1.0.0 (http://quantumui.org)
+ * Copyright 2014-2015 Mehmet Otkun, quantumui.org
  */
 
 .titip-default[class*='titip'][data-title]:before,
@@ -192,8 +192,6 @@
     position: relative;
 
     display: inline-block;
-
-    cursor: help;
 }
 [class*='titip'][data-title]:before,
 [class*='titip'][data-title]:after,
